@@ -1,0 +1,15 @@
+C:\Users\Mvideo\source\repos\Л_10_Petrova\Л_10_Petrova\obj\Debug\netcoreapp3.1\Л_10_Petrova.csprojAssemblyReference.cache
+C:\Users\Mvideo\source\repos\Л_10_Petrova\Л_10_Petrova\obj\Debug\netcoreapp3.1\Л_10_Petrova.Form1.resources
+C:\Users\Mvideo\source\repos\Л_10_Petrova\Л_10_Petrova\obj\Debug\netcoreapp3.1\Л_10_Petrova.csproj.GenerateResource.cache
+C:\Users\Mvideo\source\repos\Л_10_Petrova\Л_10_Petrova\obj\Debug\netcoreapp3.1\Л_10_Petrova.AssemblyInfoInputs.cache
+C:\Users\Mvideo\source\repos\Л_10_Petrova\Л_10_Petrova\obj\Debug\netcoreapp3.1\Л_10_Petrova.AssemblyInfo.cs
+C:\Users\Mvideo\source\repos\Л_10_Petrova\Л_10_Petrova\obj\Debug\netcoreapp3.1\Л_10_Petrova.csproj.CoreCompileInputs.cache
+C:\Users\Mvideo\source\repos\Л_10_Petrova\Л_10_Petrova\bin\Debug\netcoreapp3.1\Л_10_Petrova.exe
+C:\Users\Mvideo\source\repos\Л_10_Petrova\Л_10_Petrova\bin\Debug\netcoreapp3.1\Л_10_Petrova.deps.json
+C:\Users\Mvideo\source\repos\Л_10_Petrova\Л_10_Petrova\bin\Debug\netcoreapp3.1\Л_10_Petrova.runtimeconfig.json
+C:\Users\Mvideo\source\repos\Л_10_Petrova\Л_10_Petrova\bin\Debug\netcoreapp3.1\Л_10_Petrova.runtimeconfig.dev.json
+C:\Users\Mvideo\source\repos\Л_10_Petrova\Л_10_Petrova\bin\Debug\netcoreapp3.1\Л_10_Petrova.dll
+C:\Users\Mvideo\source\repos\Л_10_Petrova\Л_10_Petrova\bin\Debug\netcoreapp3.1\Л_10_Petrova.pdb
+C:\Users\Mvideo\source\repos\Л_10_Petrova\Л_10_Petrova\obj\Debug\netcoreapp3.1\Л_10_Petrova.dll
+C:\Users\Mvideo\source\repos\Л_10_Petrova\Л_10_Petrova\obj\Debug\netcoreapp3.1\Л_10_Petrova.pdb
+C:\Users\Mvideo\source\repos\Л_10_Petrova\Л_10_Petrova\obj\Debug\netcoreapp3.1\Л_10_Petrova.genruntimeconfig.cache
